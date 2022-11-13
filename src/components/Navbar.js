@@ -2,7 +2,7 @@ import './Navbar.css';
 import React, { useState } from 'react'
 import { Link } from 'react-router-dom';
 import {FaBars,FaTimes} from "react-icons/fa"
-import cv from '../assets/Grey Clean CV Resume Photo.pdf';
+import cv from '../assets/Grey Clean CV Resume Photo.png';
 
 
 function Navbar() {
