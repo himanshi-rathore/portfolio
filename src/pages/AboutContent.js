@@ -9,7 +9,7 @@ function AboutContent() {
    <div className="about">
     <div className="left">
         <h1>Who Am I?</h1>
-        <p>I m a Web Developer with good command over the tools and framworks . I  m a junior pursuing B.tech in Computer Science and Engineering. A quick learner and  team player with an effective communication and analytical skills. </p>
+        <p>I m a Web Developer with good command over the tools and  am a final-year undergraduate student majoring in Computer Science and Engineering. A quick learner and  team player with an effective communication and analytical skills. </p>
         <Link to='/contact'>
          <button className="btn">Contact</button>
         </Link>
