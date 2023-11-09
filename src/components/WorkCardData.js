@@ -8,15 +8,15 @@ const ProjectCardData =[
         imgsrc: pro1,
         title: "MovieBox",
     text: "The Goal of this project is to show all the upcoming, popular, trending movies and shows using The Movie Database. The project leveraged React components to create reusable UI elements and manage the dynamic rendering of the movie",
-        view: "https://netflix-clone-theta-six.vercel.app/",
-        source: "https://github.com/himanshi-rathore/netflix_clone"
+        view: "https://movie-box-alpha-two.vercel.app/",
+        source: "https://github.com/himanshi-rathore/MovieBox"
     },
     {
         imgsrc: pro2,
         title: "FoodMate",
         text: "A platform that gives delivery, Dini-out, and nightlife options. Build using ReactJs, Zomato's API for rendering restaurant information.",
-        view: "https://zomato-clone-bay.vercel.app/",
-        source: "https://github.com/himanshi-rathore/zomato_clone"
+        view: "https://food-mate.vercel.app/",
+        source: "https://github.com/himanshi-rathore/FoodMate"
     },
     {
         imgsrc: pro3,
