@@ -6,15 +6,15 @@ import pro4 from '../assets/Screenshot (24).png';
 const ProjectCardData =[ 
     {
         imgsrc: pro1,
-        title: "Netflix-clone",
-        text: "It's a basic Netflix clone that includes a home page, Sign In and a Sign Up page. his project shows the implementation of react concepts , use of axios to fetch data from the movie database and firebase to supports its authentication.",
+        title: "MovieBox",
+    text: "The Goal of this project is to show all the upcoming, popular, trending movies and shows using The Movie Database. The project leveraged React components to create reusable UI elements and manage the dynamic rendering of the movie",
         view: "https://netflix-clone-theta-six.vercel.app/",
         source: "https://github.com/himanshi-rathore/netflix_clone"
     },
     {
         imgsrc: pro2,
-        title: "Zomato-clone",
-        text: "This project has three pages made by using react Js and zomato's api to get restaurant information. It involves the basic understanding of ReactJS and Javascript and used pure CSS to style this clone, and also a fairly good amount of HTML5.",
+        title: "FoodMate",
+        text: "A platform that gives delivery, Dini-out, and nightlife options. Build using ReactJs, Zomato's API for rendering restaurant information.",
         view: "https://zomato-clone-bay.vercel.app/",
         source: "https://github.com/himanshi-rathore/zomato_clone"
     },
