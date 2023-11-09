@@ -12,8 +12,8 @@ links to live demos or GitHub repositories.The website features my key skills an
 ![Screenshot (35)](https://github.com/himanshi-rathore/portfolio.github.io/assets/108826224/13cbf9be-d38a-480b-b505-dca90087df41)
 
 ### Projects
+![Screenshot (47)](https://github.com/himanshi-rathore/portfolio.github.io/assets/108826224/0586306f-90d3-4722-a264-443a5e011560)
 
-![Screenshot (36)](https://github.com/himanshi-rathore/portfolio.github.io/assets/108826224/fc358a45-1f9a-450c-816f-f2dc37cd7672)
 
 ### About
 ![Screenshot (37)](https://github.com/himanshi-rathore/portfolio.github.io/assets/108826224/cc4015df-1d34-4940-ba1c-439baa34dfda)
